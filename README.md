@@ -41,7 +41,6 @@ This project leverages advanced basketball analytics to identify and evaluate th
 - **Pandas & NumPy** - Data manipulation and analysis
 - **Matplotlib & Seaborn** - Advanced data visualization
 - **Scikit-learn** - Machine learning and clustering
-- **Basketball Reference Web Scraper** - Additional advanced metrics
 
 ### Advanced Analytics Features
 - **True Shooting Percentage** - Comprehensive shooting efficiency
